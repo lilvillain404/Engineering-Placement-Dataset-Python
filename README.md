@@ -1,6 +1,10 @@
 # 📊 Анализ успеваемости инженерных студентов
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)
+### 🛠️ Инструменты
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 
 **Цель проекта:** 
 - Потренироваться в работе с библиотеками Pandas, Matplotlib и Seaborn,
@@ -16,12 +20,6 @@
 
 ## 🗂️ Источник данных
 **Датасет:** [Indian Engineering College Placement Dataset](https://www.kaggle.com/datasets/vishardmehta/indian-engineering-college-placement-dataset/data) с Kaggle.
-
-
-## 🛠️ Стек технологий
-1. Pandas - для обработки и анализа данных
-2. Matplotlib - для базовой визуализации
-3. Seaborn - для улучшения стиля графиков
 
 ## 1. Загрузила данные и провела базовый анализ
 ```python
